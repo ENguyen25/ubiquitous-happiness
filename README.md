@@ -1,10 +1,12 @@
-# Ubiquitous Happiness
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Ubiquitous
 
 ## Description:
 
 ---
 Create a community forum to track trending-up streamers, featured streams, game releases and aid in the promotion of streamer channels using the Twitch and Steam API’s.
+### [Ubiquitous Homepage](https://ubiquitous-p2.herokuapp.com/)
+
+![Hero](ub-hero.png)
 
 ## Table of Contents:
 
@@ -62,10 +64,3 @@ Create a community forum to track trending-up streamers, featured streams, game 
 - Evelyn Nguyen
 - Nikki Mounce
 - Florian Meneses
-
-## Licenses:
-
----
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-**MIT License**
-Copyright &#169; <YEAR> <NAME>
